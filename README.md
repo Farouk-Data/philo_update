@@ -1,5 +1,7 @@
 # The dining philosopher's problem
-![shapes-1](https://github.com/Mushigarou/Philosophers/assets/115739322/2c538004-ddde-428e-a1ae-bde719fe3737)
+
+![firstphilo](https://github.com/Farouk-Echaref/42_Philosophers/assets/66710845/3733fc17-5496-4df3-90ec-f9448eb4aeac)
+
 
 ## Overview :
 - One or more philosophers sit at a round table.
@@ -50,11 +52,9 @@ pher number N + 1.
 - A message announcing a philosopher died should be displayed no more than 10 ms
 after the actual death of the philosopher.
 
-![Eating](https://github.com/Mushigarou/Philosophers/assets/115739322/cef600c6-d5e7-4776-9e25-655f0047d614)
+![secondphilo](https://github.com/Farouk-Echaref/42_Philosophers/assets/66710845/8139a693-ed71-4b56-81be-79e0c2c5e4d0)
+
 
 ## Contributing
 
 Contributions to this project are welcome! If you find any issues or have improvements to suggest, please feel free to submit a pull request.
-## License
-
-This project is licensed under the MIT license
