@@ -1,5 +1,7 @@
 # The dining philosopher's problem
 
+The Dining Philosophers Problem is a thread synchronization challenge addressed through a C language implementation. This solution employs an algorithm designed to resolve thread synchronization issues while using mutexes to protect shared data resources between threads. It effectively manages a group of philosophers dining at a round table, ensuring they can access shared forks according to a set of rules, preventing issues like deadlock and resource contention (Data Race).
+
 ![firstphilo](https://github.com/Farouk-Echaref/42_Philosophers/assets/66710845/3733fc17-5496-4df3-90ec-f9448eb4aeac)
 
 
